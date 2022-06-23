@@ -1,0 +1,56 @@
+.content__box {
+  position: absolute;
+  z-index: -1;
+}
+.content__element {
+  position: absolute;
+}
+.content__vektor {
+  position: absolute;
+  left: 0px;
+  top: 594px;
+}
+.content__foto {
+  position: absolute;
+  z-index: 1;
+  left: 850.88px;
+  top: 127px;
+}
+.content__square {
+  position: absolute;
+  z-index: 1;
+  left: 735px;
+  top: 364px;
+}
+.content__stroke {
+  position: absolute;
+  z-index: 1;
+  left: 820.57px;
+  top: 433px;
+}
+.content__square_two {
+  position: absolute;
+  z-index: 1;
+  left: 1100px;
+  top: 620px;
+}
+.content__avatar {
+  position: absolute;
+  z-index: 1;
+  left: 1158.63px;
+  top: 716.33px;
+}
+.take {
+  position: absolute;
+  font-family: "Maven Pro 700", sans-serif;
+  width: 522px;
+  height: 140px;
+  top: 277px;
+  left: 166px;
+  font-size: 56px;
+  z-index: 1;
+}
+.p__two {
+  position: absolute;
+  color: red;
+}
