@@ -42,7 +42,8 @@
 }
 .take {
   position: absolute;
-  font-family: "Maven Pro 700", sans-serif;
+  font-family: "Maven Pro", sans-serif;
+  font-weight: 700;
   width: 522px;
   height: 140px;
   top: 277px;
