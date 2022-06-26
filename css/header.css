@@ -1,34 +1,29 @@
 .header {
-  position: relative;
   display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 0px;
 }
 .header__icon {
-  position: absolute;
-  left: 189.27px;
-  top: 30px;
+  margin-left: 166px; 
+  margin-top: 5px;
 }
 .header__menu_level {
-  position: absolute;
-  display: flex;
-  justify-content: flex-end;
-  left: 540px;
-  top: 10px;
+  display: inline-flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 16px;
+  margin-left: 50px;
+  font-family: 'Maven Pro';
 }
 .level {
   margin: 37px;
 }
-.header__menu_img {
-  position: absolute;
-  left: 599px;
-  top: 65px;
+.header__work{
+  margin-top: 20px;
+  margin-left: 100px;
 }
-.header__work {
-  position: absolute;
-  left: 1090px;
-  top: 30px;
-}
-.header__level {
-  position: absolute;
-  left: 1244px;
-  top: 39px;
+.header__level{
+  margin: 10px;
+  margin-right: 420px;
 }
