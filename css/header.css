@@ -1,29 +1,33 @@
 .header {
   display: flex;
-  align-items: f;
+  align-items: center;
   justify-content: space-between;
-  margin-top: 0px;
 }
 .header__icon {
-  margin-left: 166px; 
-  margin-top: 5px;
+  margin-left: 166px;
+  margin-top: 0px;
 }
-.header__menu_level {
+.header__menulevel {
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  margin-top: 16px;
+  margin-top: 0px;
   margin-left: 50px;
-  font-family: 'Maven Pro';
+  font-family: "Maven Pro";
 }
 .level {
   margin: 37px;
 }
-.header__work{
-  margin-top: 20px;
-  margin-left: 100px;
+.header__menuimg {
+  position: absolute;
+  left: 425px;
+  top: 55px;
 }
-.header__level{
-  margin: 10px;
-  margin-right: 420px;
+.header__work {
+  margin-top: 20px;
+  margin-left: 280px;
+}
+.header__level {
+  margin-top: 20px;
+  margin-right: 100px;
 }

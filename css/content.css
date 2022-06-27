@@ -1,4 +1,77 @@
-.content{
-    display: flex;
-    justify-content: start;
+.content {
+  width: 1440px;
+  height: 805px;
+}
+.content__fotofon {
+  position: absolute;
+  top: 0px;
+  z-index: -1;
+}
+.content__fonelement {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: -1;
+}
+.content__boxvektor {
+  position: absolute;
+  left: 0px;
+  top: 594px;
+}
+.content__flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.content__take {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 230px;
+}
+.content__p {
+  font-family: "Maven Pro";
+  font-size: 56px;
+  font-weight: 700;
+}
+.content__p2 {
+  color: red;
+}
+.content__blokmini {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.content__txt {
+  font-family: "Maven Pro";
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 15px;
+}
+.content__onefoto {
+  position: absolute;
+  left: 900px;
+  top: 127px;
+}
+.content__square {
+  position: absolute;
+  top: 364px;
+  left: 765px;
+}
+.content__stroke {
+  position: absolute;
+  top: 420px;
+  left: 850px;
+}
+.content__job {
+  position: absolute;
+  top: 490px;
+  left: 830px;
+  z-index: 1;
+  font-family: "Maven Pro";
+}
+.content__square2 {
+  position: absolute;
+  top: 600px;
+  left: 1144px;
 }
