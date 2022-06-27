@@ -1,6 +1,6 @@
 .header {
   display: flex;
-  align-items: center;
+  align-items: f;
   justify-content: space-between;
   margin-top: 0px;
 }
@@ -10,7 +10,7 @@
 }
 .header__menu_level {
   display: inline-flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   margin-top: 16px;
   margin-left: 50px;
