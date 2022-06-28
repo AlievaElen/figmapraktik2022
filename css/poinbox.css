@@ -1,0 +1,67 @@
+.pointbox__box {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 250px;
+}
+.pointbox__toptext {
+  font-family: "Maven Pro";
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 46px;
+  max-width: 463px;
+  text-align: center;
+}
+.pointbox__txt {
+  font-family: "Maven Pro";
+  font-size: 16px;
+  color: #6b6b6b;
+  margin-top: 1px;
+  padding: 1px;
+  line-height: 46px;
+}
+.pointbox__img {
+  margin-top: 31px;
+}
+.pointbox__fon {
+  position: absolute;
+  left: 0px;
+  top: 2613px;
+  z-index: -1;
+}
+.pointbox__points {
+  position: absolute;
+  left: 300px;
+  top: 2668px;
+  z-index: -1;
+}
+.pointbox__avatar {
+  position: absolute;
+  left: 189px;
+  top: 2748px;
+}
+.pointbox__avatar1 {
+  position: absolute;
+  left: 374px;
+  top: 2825px;
+}
+.pointbox__avatar2 {
+  position: absolute;
+  left: 270px;
+  top: 2929px;
+}
+.pointbox__avatar3 {
+  position: absolute;
+  left: 1086px;
+  top: 2713px;
+}
+.pointbox__avatar4 {
+  position: absolute;
+  left: 1208px;
+  top: 2832px;
+}
+.pointbox__avatar5 {
+  position: absolute;
+  left: 1052px;
+  top: 2966px;
+}

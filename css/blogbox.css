@@ -1,0 +1,38 @@
+.blogbox {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 139px;
+}
+.blogbox__minibox {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 113px;
+}
+.blogbox__news {
+  font-family: "Maven Pro";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+  color: red;
+}
+.blogbox__txt {
+  font-family: "Maven Pro";
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 28px;
+  max-width: 277px;
+  text-align: center;
+  margin-top: 7px;
+}
+.blogbox__flex {
+  display: flex;
+  align-items: center;
+  margin-top: 55px;
+}
+.blogbox__box1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
