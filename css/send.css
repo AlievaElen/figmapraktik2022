@@ -1,0 +1,28 @@
+.send__blok{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 126px;
+}
+.send__img{
+    position: absolute;
+    left: 401px;
+top: 3830px;
+z-index: -1;
+
+}
+.send__img2{
+    position: absolute;
+    left: 500px;
+top: 3880px;
+}
+.send__p{
+    font-family: "Maven Pro";
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 33px;
+  color: black;
+  margin-top: 20px;
+  margin-left: 400px;
+}
+

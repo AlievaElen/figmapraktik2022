@@ -8,7 +8,7 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  margin-top: 113px;
+  margin-top: 90px;
 }
 .blogbox__news {
   font-family: "Maven Pro";
@@ -30,9 +30,102 @@
   display: flex;
   align-items: center;
   margin-top: 55px;
+  column-gap: 54px;
 }
 .blogbox__box1 {
   display: flex;
   align-items: flex-start;
   flex-direction: column;
+  column-gap: 54px;
 }
+.blogbox__data{
+  font-family: "Maven Pro";
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 28px;
+  color: red;
+  margin-top: 14px;
+}.blogbox__data2{
+  font-family: "Maven Pro";
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 28px;
+  color: red;
+  margin-top: 14px;
+}.blogbox__data3{
+  font-family: "Maven Pro";
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 28px;
+  color: red;
+  margin-top: 14px;
+}
+.blogbox__toptxt{
+  font-family: "Maven Pro";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #191C51;
+  margin-top: 14px;
+  max-width: 280px;
+}
+.blogbox__toptxt2{
+  font-family: "Maven Pro";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #191C51;
+  margin-top: 14px;
+  max-width: 280px;
+}
+.blogbox__toptxt3{
+  font-family: "Maven Pro";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #191C51;
+  margin-top: 14px;
+  max-width: 280px;
+}
+.blogbox__one{
+  font-family: 'Maven Pro';
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+color: #595954;
+max-width: 280px;
+}
+.blogbox__two{
+  font-family: 'Maven Pro';
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+color: #595954;
+max-width: 280px;
+}
+.blogbox__tree{
+  font-family: 'Maven Pro';
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+color: #595954;
+max-width: 280px;
+}
+.blogbox__images{
+position: absolute;
+left: 136px;
+top: 3300px;
+z-index:-1 ;
+}
+.blogbox__images2{
+  position: absolute;
+  left: 516px;
+  top: 3300px;
+  z-index:-1 ;
+  }
+  .blogbox__images3{
+    position: absolute;
+    left: 896px;
+    top: 3300px;
+    z-index:-1 ;
+    }
